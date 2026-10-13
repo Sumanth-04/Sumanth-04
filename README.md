@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumanth
-- 👀 I’m interested in Javascript,Python,React.Js,Node.Js,Express,REST API,Django...
-- 🌱 I’m currently learning Computer Science 8th semester(Final) Bachelor of Engineering
+- 👀 I’m interested in Javascript,Python,React.Js,Node.Js,Express,REST API,Django.
+- 🌱 Master's in Philosophy and Computer Science at University of Bayreuth, Germany.
 - 💞️ I’m looking to collaborate on above mentioned interests
 - 📫 How to reach me : sumanthsk04@gmail.com
 
