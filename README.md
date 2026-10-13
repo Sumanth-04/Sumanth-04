@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sumanth
-- 👀 I’m interested in Javascript,Python,React.Js,Node.Js,Express,REST API,Django.
+- 👀 I’m interested in Machine Learning.
 - 🌱 Master's in Philosophy and Computer Science at University of Bayreuth, Germany.
-- 💞️ I’m looking to collaborate on above mentioned interests
 - 📫 How to reach me : sumanthsk04@gmail.com
 
 <!---
